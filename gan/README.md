@@ -1,3 +1,4 @@
+# Generative Adversarial Networks using Pytorch
 I develop a GAN that generates digits based on MNIST dataset. I use simple generator and discriminator networks, with four fully connected layers in both. Note, it might be better to use convolution and transpose convolution layers instead. I use leaky-RELU as the activation function in both, and the tanh activation for final layer of Generator. The overall GAN pipeline looks like this:
 
 ![GAN Pipeline](results/gan_pipeline.png)

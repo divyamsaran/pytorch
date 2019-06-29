@@ -1,4 +1,4 @@
-# pytorch
+# Pytorch
 Hey! Welcome to my repository on Pytorch, I have tried implementing CNNs, RNNs, GANs, and transfer learning using Pytorch. Disclaimer: a lot of the content is inspired by the amazing [Udacity course on Pytorch](https://classroom.udacity.com/courses/ud188).
 
 You will find the following on the repository:

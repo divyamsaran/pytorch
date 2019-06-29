@@ -1,3 +1,4 @@
+# Recurrent Neural Networks using Pytorch
 I develop a character level LSTM that predicts next character based on the current character. Its based on Andrej Karpathy's great [blog](http://karpathy.github.io/2015/05/21/rnn-effectiveness/) post on RNNs. I use the LSTM module provided by Pytorch. I use Cross Entropy loss and Adam optimizer. Additionally, I use gradient clipping to avoid exploding gradients. 
 
 The model is trained on text from a novel Anna Karenina (also included in the data folder). The text looks like this:
@@ -11,7 +12,7 @@ girl, who had been a governess in their family, and she had announced to
 her husband that she could not go on living in the same house with him.
 ```
 
-We train the model for 20 epochs. For predicting we do top-k sampling, i.e. limit results to k values and then pick from them based on their probabilities. We prime our model on two small texts (so as to avoid random output), and get these results. 
+I train the model for 20 epochs. For predicting, I do top-k sampling, i.e. limit results to k values and then pick from them based on their probabilities. I prime my model on two small texts (so as to avoid random output), and get these results. 
 For prime `Anna`:
 ```
 Anna And Levin, he shook her
