@@ -1,0 +1,12 @@
+Test Accuracy of airplane: 78% (789/1000)
+Test Accuracy of automobile: 83% (839/1000)
+Test Accuracy of  bird: 65% (651/1000)
+Test Accuracy of   cat: 50% (502/1000)
+Test Accuracy of  deer: 73% (738/1000)
+Test Accuracy of   dog: 63% (630/1000)
+Test Accuracy of  frog: 79% (799/1000)
+Test Accuracy of horse: 73% (736/1000)
+Test Accuracy of  ship: 87% (874/1000)
+Test Accuracy of truck: 86% (863/1000)
+
+ Overall Test Accuracy: 74% (7421/10000)

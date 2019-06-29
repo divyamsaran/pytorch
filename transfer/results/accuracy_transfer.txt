@@ -1,0 +1,13 @@
+Epoch: 1         Training Loss: 0.0509
+Epoch: 2         Training Loss: 0.0429
+Epoch: 3         Training Loss: 0.0409
+Epoch: 4         Training Loss: 0.0429
+Epoch: 5         Training Loss: 0.0391
+Test Loss: 0.0293
+Test Accuracy of daisy: 69% (64/92)
+Test Accuracy of dandelion: 84% (112/132)
+Test Accuracy of roses: 74% (68/91)
+Test Accuracy of sunflowers: 83% (84/101)
+Test Accuracy of tulips: 78% (97/124)
+
+ Overall Test Accuracy: 78% (425/540)
